@@ -1,4 +1,4 @@
-# MigWizard ![MigWizard Logo](https://github.com/Goobbue/MigWizard/blob/master/MigWizardLogo.png?raw=true)
+# MigWizard ![MigWizard Logo](https://github.com/Goobbue/MigWizard/blob/master/MigWizard_Logo.png?raw=true)
 MigWizard is a GUI tool used to back up and restore user profiles on 64-bit Windows machines using USMT.
 
 MigWizard can be used to migrate Internet Explorer, Edge, and Chrome bookmarks, user backgrounds, scaling settings, start menu icons, and more! 
