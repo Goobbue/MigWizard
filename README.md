@@ -12,4 +12,4 @@ To install psexec, download PSTools from the link below and extract the contents
 
 https://docs.microsoft.com/en-us/sysinternals/downloads/psexec
 
-![MigWizard Screenshot](https://github.com/Goobbue/MigWizard/blob/master/MigWizard.png?raw=true)
+![MigWizard Screenshot](https://github.com/Goobbue/MigWizard/blob/master/MigWizardTabs.png?raw=true)
